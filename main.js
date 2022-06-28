@@ -9,7 +9,7 @@ leftWristY = 0;
 
 function preload()
 {
-	song = loadSound("music.mp3");
+	song = loadSound("music_2.mp3");
 }
 
 function setup() {
